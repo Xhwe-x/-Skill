@@ -1,0 +1,110 @@
+{
+  "version": "2026-11-04",
+  "source": "用户认可的技术服务文本格式",
+  "normalization": "固化主导格式、清理混排；关闭文字网格对齐以落实1.5倍行距",
+  "portrait": {
+    "width_twips": 11906,
+    "height_twips": 16838,
+    "top_twips": 1440,
+    "bottom_twips": 1440,
+    "left_twips": 1800,
+    "right_twips": 1800
+  },
+  "landscape": {
+    "width_twips": 16838,
+    "height_twips": 11906,
+    "top_twips": 1803,
+    "bottom_twips": 1803,
+    "left_twips": 1440,
+    "right_twips": 1440
+  },
+  "header_twips": 851,
+  "footer_twips": 992,
+  "body": {
+    "east_asia": "宋体",
+    "latin": "宋体",
+    "size_pt": 14,
+    "first_line_twips": 420,
+    "line_spacing": 1.5,
+    "space_before_pt": 0,
+    "space_after_pt": 0,
+    "alignment": "both",
+    "snap_to_grid": false
+  },
+  "headings": [
+    {
+      "level": 1,
+      "font": "宋体",
+      "size_pt": 22,
+      "before_pt": 17,
+      "after_pt": 16.5,
+      "indent_twips": 432
+    },
+    {
+      "level": 2,
+      "font": "宋体",
+      "size_pt": 16,
+      "before_pt": 13,
+      "after_pt": 13,
+      "indent_twips": 575
+    },
+    {
+      "level": 3,
+      "font": "宋体",
+      "size_pt": 16,
+      "before_pt": 13,
+      "after_pt": 13,
+      "indent_twips": 720
+    },
+    {
+      "level": 4,
+      "font": "黑体",
+      "size_pt": 14,
+      "before_pt": 14,
+      "after_pt": 14.5,
+      "indent_twips": 864
+    },
+    {
+      "level": 5,
+      "font": "宋体",
+      "size_pt": 14,
+      "before_pt": 14,
+      "after_pt": 14.5,
+      "indent_twips": 1008
+    },
+    {
+      "level": 6,
+      "font": "黑体",
+      "size_pt": 12,
+      "before_pt": 12,
+      "after_pt": 3.2,
+      "indent_twips": 1151
+    },
+    {
+      "level": 7,
+      "font": "宋体",
+      "size_pt": 12,
+      "before_pt": 12,
+      "after_pt": 3.2,
+      "indent_twips": 1296
+    }
+  ],
+  "table": {
+    "east_asia": "宋体",
+    "latin": "Calibri",
+    "size_pt": 11,
+    "line_spacing": 1.5,
+    "border_color": "000000",
+    "border_eighth_points": 4,
+    "padding_twips": 80
+  },
+  "caption": {
+    "font": "宋体",
+    "size_pt": 10.5
+  },
+  "footer": {
+    "font": "宋体",
+    "size_pt": 9,
+    "text": "第{PAGE}页共{NUMPAGES}页"
+  }
+}

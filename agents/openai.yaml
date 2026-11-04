@@ -1,0 +1,13 @@
+interface:
+  display_name: 投标 Skill
+  short_description: 依据招标要求和自有范文编制技术标正文，固定排版并检查响应遗漏
+  default_prompt: 使用 $tender-bid，根据我提供的招标文件和范文，直接编制技术部分并沿用已确认的格式。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

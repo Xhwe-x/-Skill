@@ -1,0 +1,8 @@
+{
+  "project_name":"【当前项目全称】",
+  "project_type":"design-consulting",
+  "required_literals":[],
+  "forbidden_literals":[],
+  "requirements":[{"id":"T01","title":"【当前评分细目】","keywords":["【当前要求线索】"]}],
+  "notes":"每次按当前招标重建；线索命中不证明完整响应，未命中不证明不响应。"
+}
